@@ -1,4 +1,4 @@
-filename=PVSS_II.log
+filename=latest_pvssii.log
 
 line1=$(head -n 1 $filename)
 line2=$(head -n 2 $filename | tail -n 1)
@@ -38,16 +38,26 @@ while read line; do
         fi
     fi
     
-    if [ "$i" -eq "150" ]; then
-            break
-    fi
+    # if [ "$i" -eq "150" ]; then
+    #         break
+    # fi
     # echo End Message
     # echo ${arr[2]}
 done < $filename
 
-echo "\n\n"
+#echo "\n\n"
+
+infArr=()
+warArr=()
+sevArr=()
+
+infArrC=()
+warArrC=()
+sevArrC=()
+
+
 for(( j=0; j<${#arr[@]};j++ )); do
-    echo $j : ${arr[j]} 
+    #echo $j : ${arr[j]} 
     ##At this point, we have all the log lines in a proper delimiter modifiable format.
 
         
@@ -60,36 +70,143 @@ for(( j=0; j<${#arr[@]};j++ )); do
     #############################################
 
     #echo $j : ${delimitFinalArr[0]}
-    for(( k=0; k<${#delimitFinalArr[@]};k++ )); do
-        echo $k: ${delimitFinalArr[k]} 
+    k=0
+    for((; k<${#delimitFinalArr[@]};k++ )); do
+        #echo $k: ${delimitFinalArr[k]} 
+        :
     done
 
     patternInf=".*INFO.*"
     patternWar=".*WARNING.*"
     patternSev=".*SEVERE.*"
 
+    msg=${delimitFinalArr[$((k-1))]}
+    
+    #echo "Message is " $msg
 
-    echo "Level is :" ${delimitFinalArr[3]}
+
+    #echo "Level is :" ${delimitFinalArr[3]}
     if [[ "${delimitFinalArr[3]}" =~ $patternInf ]]; then
         cInf=$((cInf+1))
-        echo "Matches INFO"
+        #echo "Matches INFO"
+
+        flag=0
+        for((s=0; s<${#infArr[@]};s++ )); do
+
+            if [[ "${infArr[$s]}" == "$msg" ]]; then
+                flag=1;
+                infArrC[$s]=$((${infArrC[$s]}+1))
+                break;
+            fi
+
+        done
+        if [[ "$flag" -eq "0" ]]; then
+            infArr+=("${delimitFinalArr[$((k-1))]}")
+            infArrC+=("1")
+        fi
     fi
 
     if [[ ${delimitFinalArr[3]} =~ $patternWar ]]; then
         cWar=$((cWar+1))
-        echo "Matches Warning"
+        #echo "Matches Warning"
+
+        flag=0
+        for((s=0; s<${#warArr[@]};s++ )); do
+
+            if [[ "${warArr[$s]}" == "$msg" ]]; then
+                flag=1;
+                warArrC[$s]=$((${warArrC[$s]}+1))
+                break;
+            fi
+
+        done
+        if [[ "$flag" -eq "0" ]]; then
+            warArr+=("${delimitFinalArr[$((k-1))]}")
+            warArrC+=("1")
+        fi
     fi
 
     if [[ ${delimitFinalArr[3]} =~ $patternSev ]]; then
         cSev=$((cSev+1))
-        echo "Matches Severity"
+        #echo "Matches Severity"
+        
+        flag=0
+        for((s=0; s<${#sevArr[@]};s++ )); do
+
+            if [[ "${sevArr[$s]}" == "$msg" ]]; then
+                flag=1;
+                sevArrC[$s]=$((${sevArrC[$s]}+1))
+                break;
+            fi
+
+        done
+        if [[ "$flag" -eq "0" ]]; then
+            sevArr+=("${delimitFinalArr[$((k-1))]}")
+            sevArrC+=("1")
+        fi
     fi
 
-    echo "\n"
+    #echo "\n"
 
 done
-    echo "\n"
+   #echo "\n"
 echo "Info:" $cInf " Warning:" $cWar " Severe:" $cSev
+
+
+##SHOW ALL##
+
+################################################################
+echo "\n"Severe Messages are
+
+for(( s=0; s<${#sevArr[@]};s++ )); do
+        echo ${sevArrC[s]} : ${sevArr[s]} 
+done
+
+echo "\n"Warning Messages are
+
+for(( s=0; s<${#warArr[@]};s++ )); do
+        echo ${warArrC[s]}: ${warArr[s]} 
+done
+
+echo "\n"Info Messages are
+
+for(( s=0; s<${#infArr[@]};s++ )); do
+        echo ${infArrC[s]}: ${infArr[s]} 
+done
+###################################################################
+
+
+
+##Show Only gt 5##
+
+################################################################
+echo "\n"Severe Messages are
+
+for(( s=0; s<${#sevArr[@]};s++ )); do
+        if [[ ${sevArrC[s]} -gt "5" ]]; then
+            echo ${sevArrC[s]} : ${sevArr[s]} 
+        fi
+done
+
+echo "\n"Warning Messages are
+
+for(( s=0; s<${#warArr[@]};s++ )); do
+        if [[ ${warArrC[s]} -gt "5" ]]; then
+            echo ${warArrC[s]}: ${warArr[s]} 
+        fi
+done
+
+echo "\n"Info Messages are
+
+for(( s=0; s<${#infArr[@]};s++ )); do
+        if [[ ${infArrC[s]} -gt "5" ]]; then
+            echo ${infArrC[s]}: ${infArr[s]} 
+        fi
+done
+###################################################################
+
+
+
 
 
 
