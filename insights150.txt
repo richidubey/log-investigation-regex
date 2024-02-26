@@ -1,0 +1,1559 @@
+
+
+
+0: WCCILpmon (1)
+1: 2024.02.26 09:39:30.918
+2: SYS
+3: INFO
+4: 165
+5: maxLogFileSize limit reached (10 MB). Renamed the logfile /opt/ramprod/PVSS_projects/REMUS/REMUS/log//PVSS_II.log
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:32.409
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.171.78 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:32.409
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.168.39 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:33.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:33.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:33.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:33.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:33.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:33.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:33.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:33.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:35.413
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.171.78 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:35.413
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.168.39 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:36.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:36.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:36.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:36.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:36.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:36.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:36.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:36.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:37.828
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.171.78 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:37.828
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.168.39 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:39.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:39.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:39.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:39.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:39.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:39.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:39.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:39.410
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:40.417
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModOutputQueue
+7: workProc
+8: Timeout appears for last sent request to 172.18.172.209:502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:40.417
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModOutputQueue
+7: workProc
+8: Timeout appears for last sent request to 172.18.172.213:502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:40.417
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModOutputQueue
+7: workProc
+8: Timeout appears for last sent request to 172.18.171.81:502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:40.417
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModOutputQueue
+7: workProc
+8: Timeout appears for last sent request to 172.18.129.8:502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:41.414
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.171.78 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:41.414
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.168.39 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.405
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.405
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.407
+2: SYS
+3: INFO
+4: 0
+5:
+6: ModMasterConnection
+7: masterConnEstablished
+8: Established connection to 172.18.172.209 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.407
+2: SYS
+3: INFO
+4: 0
+5:
+6: ModMasterConnection
+7: masterConnEstablished
+8: Established connection to 172.18.172.213 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.407
+2: SYS
+3: INFO
+4: 0
+5:
+6: ModMasterConnection
+7: masterConnEstablished
+8: Established connection to 172.18.171.81 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:42.407
+2: SYS
+3: INFO
+4: 0
+5:
+6: ModMasterConnection
+7: masterConnEstablished
+8: Established connection to 172.18.129.8 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:44.406
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.171.78 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:44.406
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.168.39 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:45.406
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:45.406
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:45.406
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:45.406
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:45.406
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:45.406
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:45.406
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:45.406
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:45.786
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:46.218
+2: SYS
+3: INFO
+4: 119
+5: Last error repeated 807 times.
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:46.218
+2: SYS
+3: INFO
+4: 0
+5:
+6: S7Connection
+7: processAliveCallback
+8: Connection established to S7_45_Conn(73/1)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:46.218
+2: SYS
+3: INFO
+4: 0
+5:
+6: S7Connection
+7: generalQuery
+8: Starting general query for connection: S7_45_Conn
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:46.317
+2: SYS
+3: INFO
+4: 59/s7
+5: PLC 'S7_45_Conn' changed to state RUN (device 73).
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:46.785
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:46.786
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:46.786
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:47.409
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.171.78 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:47.409
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.168.39 on port 502
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:47.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:47.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:47.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:48.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:48.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:48.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:48.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:48.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:48.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:48.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:48.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:48.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:48.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:48.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:49.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:49.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:49.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:50.414
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.171.78 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:50.414
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.168.39 on port 502
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:50.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:50.802
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:50.802
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOActrl (24)
+1: 2024.02.26 09:39:50.834
+2: IMPL
+3: INFO
+4: 0
+5:
+6: ALARM UPDATE - Full update server side (631 WinCC OA alerts):00mn 00s 601ms
+
+
+0: WCCOActrl (24)
+1: 2024.02.26 09:39:50.842
+2: IMPL
+3: INFO
+4: 0
+5:
+6: Start KAFKA Publications Update
+
+
+0: WCCOActrl (24)
+1: 2024.02.26 09:39:50.877
+2: IMPL
+3: INFO
+4: 0
+5:
+6: ALARM UPDATE - Events & email sent:00mn 00s 42ms
+
+
+0: WCCOActrl (24)
+1: 2024.02.26 09:39:50.886
+2: IMPL
+3: INFO
+4: 0
+5:
+6: Updating kafka publication:Alarms
+
+
+0: WCCOActrl (24)
+1: 2024.02.26 09:39:50.906
+2: IMPL
+3: INFO
+4: 0
+5:
+6: KAFKA Publications Update completed (10) in 00mn 00s 64ms
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:51.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:51.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:51.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:51.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:51.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:51.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:51.403
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:51.404
+2: PARAM
+3: WARNING
+4: 54
+5: Unexpected state
+6: ModModbusMaster
+7: writeData
+8: No host/unit address defined for PLC number: 1521
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:51.898
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:51.898
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:51.899
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:52.412
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModOutputQueue
+7: workProc
+8: Timeout appears for last sent request to 172.18.172.209:502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:52.413
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModOutputQueue
+7: workProc
+8: Timeout appears for last sent request to 172.18.172.213:502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:52.413
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModOutputQueue
+7: workProc
+8: Timeout appears for last sent request to 172.18.171.81:502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:52.413
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModOutputQueue
+7: workProc
+8: Timeout appears for last sent request to 172.18.129.8:502
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:52.465
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916174 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:52.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:52.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAs7 (6)
+1: 2024.02.26 09:39:52.801
+2: SYS
+3: WARNING
+4: 54
+5: Unexpected state
+6: IOTransCont
+7: outputTrans
+8: Outstanding transaction for: (Type: 395 Sys: 545 Dp: 5916117 El: 356 : _original.._value)
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:53.407
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.171.78 on port 502
+
+
+0: WCCOAmod (19)
+1: 2024.02.26 09:39:53.407
+2: SYS
+3: SEVERE
+4: 54
+5: Unexpected state
+6: ModMasterConnection
+7: sendRequest
+8: Timeout expires for connection to server 172.18.168.39 on port 502
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.687
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.687
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has a thread of type 1 with id -64 but it has timed out. Creating and assigning a new one...
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.687
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has now assigned a new thread of type 1 and id -64.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.688
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.688
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has a thread of type 2 with id -65 but it has timed out. Creating and assigning a new one...
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.688
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has now assigned a new thread of type 2 and id -65.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.688
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.688
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has a thread of type 3 with id -67 but it has timed out. Creating and assigning a new one...
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.688
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has now assigned a new thread of type 3 and id -67.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.689
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.689
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 1 id 64 has lost the network connection to the SMART.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.689
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 1 id 64 is cleaning the dpconnects related to the thread id 64... Disregard any dpDisconnect warning messages.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.689
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 1 id 64 has finished cleaning the dpconnects related to the thread id 64.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.689
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.689
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has a thread of type 4 with id -68 but it has timed out. Creating and assigning a new one...
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.689
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has now assigned a new thread of type 4 and id -69.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 2 id 65 has lost the network connection to the SMART.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 2 id 65 is cleaning the dpconnects related to the thread id 65... Disregard any dpDisconnect warning messages.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 2 id 65 has finished cleaning the dpconnects related to the thread id 65.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has a thread of type 5 with id -70 but it has timed out. Creating and assigning a new one...
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has now assigned a new thread of type 5 and id -71.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.690
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 3 id 67 has lost the network connection to the SMART.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.691
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 3 id 67 is cleaning the dpconnects related to the thread id 67... Disregard any dpDisconnect warning messages.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.691
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 3 id 67 has finished cleaning the dpconnects related to the thread id 67.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.691
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.691
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has a thread of type 6 with id -72 but it has timed out. Creating and assigning a new one...
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.691
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Acquisition Manager] MS remus_prod:SMART_WMS_1105 has now assigned a new thread of type 6 and id -73.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.691
+2: CTRL
+3: WARNING
+4: 5/ctrl
+5: Location of the following log entry:Script: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/SMARTAcquisition.ctlLibrary: /opt/ramprod/PVSS_projects/REMUS/REMUS/scripts/libs/Common/libTools.ctlLine: 131
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.691
+2: IMPL
+3: WARNING
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 4 id 69 has lost the network connection to the SMART.
+
+
+0: WCCOActrl (102)
+1: 2024.02.26 09:39:53.692
+2: IMPL
+3: INFO
+4: 0
+5:
+6: [SMART Buffered Data Reader] MS remus_prod:SMART_WMS_1105 thread type 4 id 69 is cleaning the dpconnects related to the thread id 69... Disregard any dpDisconnect warning messages.
+
+
+150  :  0  :  0

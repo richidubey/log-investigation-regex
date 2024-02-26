@@ -10,12 +10,13 @@ read -r line < $filename
 # echo $line
 
 i=0
+cSev=0
+cInf=0
+cWar=0
 
 arr=()
 while read line; do
-    echo $i is $line
-    
-
+    #echo $i is $line
     
     ######################## Delimit by , and save in an array
     IFS=',';
@@ -32,7 +33,7 @@ while read line; do
         i=$((i+1))
     else
         if [ "$i" -gt "0" ]; then
-            echo i is greater than 0
+            #echo i is greater than 0
             arr[$((i-1))]+=$line
         fi
     fi
@@ -58,12 +59,42 @@ for(( j=0; j<${#arr[@]};j++ )); do
     unset IFS;
     #############################################
 
-    echo $j : ${delimitFinalArr[0]}
+    #echo $j : ${delimitFinalArr[0]}
+    for(( k=0; k<${#delimitFinalArr[@]};k++ )); do
+        echo $k: ${delimitFinalArr[k]} 
+    done
 
+    patternInf=".*INFO.*"
+    patternWar=".*WARNING.*"
+    patternSev=".*SEVERE.*"
+
+
+    echo "Level is :" ${delimitFinalArr[3]}
+    if [[ "${delimitFinalArr[3]}" =~ $patternInf ]]; then
+        cInf=$((cInf+1))
+        echo "Matches INFO"
+    fi
+
+    if [[ ${delimitFinalArr[3]} =~ $patternWar ]]; then
+        cWar=$((cWar+1))
+        echo "Matches Warning"
+    fi
+
+    if [[ ${delimitFinalArr[3]} =~ $patternSev ]]; then
+        cSev=$((cSev+1))
+        echo "Matches Severity"
+    fi
+
+    echo "\n"
 
 done
+    echo "\n"
+echo "Info:" $cInf " Warning:" $cWar " Severe:" $cSev
 
-# fVar=${arr[117]}
+
+
+
+#fVar=${arr[117]}
 # IFS=',';
 
 # delimitArr=(${fVar});
