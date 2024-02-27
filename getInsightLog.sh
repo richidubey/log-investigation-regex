@@ -38,9 +38,9 @@ while read line; do
         fi
     fi
     
-    # if [ "$i" -eq "150" ]; then
-    #         break
-    # fi
+    if [ "$i" -eq "150" ]; then
+            break
+    fi
     # echo End Message
     # echo ${arr[2]}
 done < $filename
@@ -180,7 +180,9 @@ done
 ##Show Only gt 5##
 
 ################################################################
-echo "\n"Severe Messages are
+
+printf "\n\nShow Only gt 5##\n"
+printf "\nSevere Messages are\n"
 
 for(( s=0; s<${#sevArr[@]};s++ )); do
         if [[ ${sevArrC[s]} -gt "5" ]]; then
@@ -188,7 +190,7 @@ for(( s=0; s<${#sevArr[@]};s++ )); do
         fi
 done
 
-echo "\n"Warning Messages are
+printf "\nWarning Messages are\n"
 
 for(( s=0; s<${#warArr[@]};s++ )); do
         if [[ ${warArrC[s]} -gt "5" ]]; then
